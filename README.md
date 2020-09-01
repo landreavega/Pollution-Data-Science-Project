@@ -1,9 +1,15 @@
-This is your group repo for your final project for COGS108.
+# Introduction:
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+With the amount of cars on the road, factories producing large quantities of goods, and a myriad of other things that we as humans do to contribute to air pollution it is imperative to ask what effects might the polluted air have on us? In this project we have narrowed our focus toward Asthma as it is one of the most common respiratory diseases. Through data analysis and application of data science practices we will investigate the possibility of a causal link between asthma and air pollution.
 
-This repository will be frozen on the final project due date: 11:59pm on Thursday, March 19th. No further changes can be made after that time.
+# Requirements: 
 
-Your project proposal, project check-in, and final project will be graded based solely on the corresponding project notebook in this repository.
+Optional: Download files and run in Jupyter notebook
 
-Make sure you have a notebook called 'FinalProject_groupXXX.ipynb' (where XXX is replaced by your group number) present in this repository by each due date.
+# How to Run: 
+
+
+1. Select FinalProject_group020.ipynb
+
+# Known Bugs:
+Heatmaps do not showup in Githtub. Run in Jupyter notebook to see the fully functional project. 
