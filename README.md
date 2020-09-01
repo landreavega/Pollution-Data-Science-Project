@@ -12,4 +12,4 @@ Optional: Download files and run in Jupyter notebook
 Select FinalProject_group020.ipynb
 
 # Known Bugs:
-Heatmaps do not showup in Githtub. Run in Jupyter notebook to see the fully functional project. 
+Heatmaps do not show up in Githtub. Run in Jupyter notebook to see the fully functional project. 
