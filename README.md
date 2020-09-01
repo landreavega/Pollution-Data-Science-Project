@@ -9,7 +9,7 @@ Optional: Download files and run in Jupyter notebook
 # How to Run: 
 
 
-1. Select FinalProject_group020.ipynb
+Select FinalProject_group020.ipynb
 
 # Known Bugs:
 Heatmaps do not showup in Githtub. Run in Jupyter notebook to see the fully functional project. 
